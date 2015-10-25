@@ -66,7 +66,8 @@ def main():
     bot = Bot()
     # get_all_channel_messages()
     bot.run()
-    run(host='0.0.0.0', port=8080, debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    run(host='0.0.0.0', port=port, debug=True)
 
 @listen_to('(.*)', re.IGNORECASE)
 def respond(message, slack_words):
