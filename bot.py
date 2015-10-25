@@ -43,7 +43,6 @@ from slackbot.bot import respond_to
 from slackbot.bot import listen_to
 import nltk
 from nltk import trigrams
-from bottle import route, run
 import re 
 import operator
 
@@ -70,8 +69,6 @@ def main():
     bot = Bot()
     # get_all_channel_messages()
     bot.run()
-    port = int(os.environ.get('PORT', 5000))
-    bottle.run(host='0.0.0.0', port=port, debug=True)
 
 @listen_to('(.*)', re.IGNORECASE)
 def respond(message, slack_words):
