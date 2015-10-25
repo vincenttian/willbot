@@ -62,6 +62,10 @@ for t in trigram_popuplarity:
 
 pprint.pprint(all_trigrams)
 
+@route('/')
+def hello():
+    return "Hello World!"
+
 def main():
     bot = Bot()
     # get_all_channel_messages()
@@ -81,10 +85,6 @@ def respond(message, slack_words):
 def respond(message):
     pprint.pprint('called willbot')
     message.reply(markov.generate_markov_text(size=13))
-
-@route('/')
-def hello():
-    return "Hello World!"
 
 if __name__ == "__main__":
     main()
