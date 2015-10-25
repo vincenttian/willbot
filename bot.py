@@ -76,7 +76,7 @@ def respond(message, slack_words):
 
 @listen_to('willbot', re.IGNORECASE)
 def respond(message):
-    message.reply(markov.generate_markov_text_with_words())
+    message.reply(markov.generate_markov_text())
 
 if __name__ == "__main__":
     main()
