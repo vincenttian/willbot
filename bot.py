@@ -61,10 +61,6 @@ for t in trigram_popuplarity:
 
 pprint.pprint(all_trigrams)
 
-@route('/')
-def hello():
-    return "Hello World!"
-
 def main():
     bot = Bot()
     # get_all_channel_messages()
