@@ -75,6 +75,63 @@ i think theyre pretty similar
 lmao
 difference between blockchain and bitcoin?
 <@U087X4UQZ|kimjongwill> has joined the channel
+sounds like some rap lyrics
+do that at my place, its no biggie man
+lol do you really think that or were you trying to trigger poor botty
+haha thats the life
+fucki cant watch too much shit doe
+i heard about it
+ah shit
+i fucking die
+its amazing
+dude
+rick and morty?
+lmao
+should watch it
+hahaha
+literally an on-demand slave?
+no
+<http://lugg.com/>
+<https://www.buddytruk.com/>
+getting college kids to move heavy stuff
+lmao this shit kills me
+<https://www.getbellhops.com/>
+lolz
+yeah, they were upfront about that
+wait profile picture...
+meta
+lol
+agh
+howd you get invite?
+damn mann
+damnnnnn
+he/she has access?
+oh shit
+no
+do you have access??
+yeah
+thats power
+hahahah
+although I feel like that was pretty much what i said
+thats good
+oh shit
+fuck nitish
+so fuck him
+journalist calls vc, vc calls me, i get shit
+and then he turned around and fwded it to the journalist and implied that students were reading fwded accounts of this journalists emails
+lol I forwarded him an email regarding event with vc and nytimes journalist
+so fuck him
+and he fucked me over
+also that writer was co-editor of dish daily with me
+<@U0882HKA7>: its like your idea for managing your wardrobe
+<http://techcrunch.com/2015/11/03/omni-is-cloud-storage-for-your-physical-stuff/?ncid=rss&amp;cps=gravity_1462_701558507461826075>
+so many people throwing themselves at this
+that are doing same logistics shit
+i can literally name 5 off the top of my head
+yeah
+yeahaa
+funded by benioff, bezos vc fund
+yet another logistics startup: <http://techcrunch.com/2015/10/26/convoy-a-smart-logistics-service-for-regional-trucking-businesses-raises-2-5m/>
 #whild
 <http://www.vergegenomics.com/#main>
 this shit is whild
@@ -158,6 +215,210 @@ trigger warnings are rooted in the idea that words do hurt
 and thats why the comparison is made to the campaign in the  80s against hate speech
 its a tough line to draw
 <@U087X4UQZ|kimjongwill> has joined the channel
+yeah makes sense
+haha
+for botty
+<@U0882HKA7>: did you use pymarkovchain?
+asked them to compile list of different 3pl startups
+and market research
+to do due diligence research on companies
+i just started using <http://askwonder.com|askwonder.com>
+can it do research for me?
+maybs
+you know?
+i just want to have it
+do anything
+idk
+that blows
+damnn
+wait does maryanne have invites for m?
+ahh nice
+seen as up-and-comer in fintech
+gs did a hackathon with them awhile back
+theyve been super popular
+Idk tho never really thought of them as career opportunity 
+Kensho is cool
+ill be working on two class projects doe
+ooh thatd be fun
+:(
+994 corbett was the shit
+hahahaha
+holy cow af
+whoa weird
+willbot, what do u think about this
+shieeeet
+for a dorm event
+yeah haha
+not great
+back on campus
+i wish
+lol no can't
+should go to berkeley
+its a sign
+willbot
+Nor she me
+I don't even follow her on Instagram
+Beautiful
+Lmao
+depends on the seeds rate of follower counts
+i guess, but I need a list of like 10
+i look at all their followers
+seeds
+damn, maybe I need to load all my output logs...
+problem is that Im overlapping now because I unfollow ppl and then my bot will follow them again when I see them
+using your 20% followback as a benchmark
+should average me about 0.075*followersCount new followers per day
+im going to make it start following anywhere from followersCount/4 to followersCount/2 amount everyday
+i guess
+fuck
+loll
+yeah
+what else?
+i do!
+i dont know how my follows fare over time
+haha
+i  need a cohort analysis
+you know what i realized tho
+ohhhh your twitter followers
+like what?
+whoa really?
+even willbot agrees
+hahaha
+oh haha
+there has to be
+somebody has that data
+looking at internal rhymes from nltk (i think nltk has that data?)
+or a rap
+or making it a huge sonnet
+like using only harry potter corpus
+but you can define really quirky features
+markov chains would prolly be most sensible to begin
+isnt that cool?
+haha
+its flipping the nanowrimo contest into a bot writing contest
+haha
+its creating bots that can write nanowrimo novels for you
+<@U087XT8AX>: look at nanogenmo
+Yeah just a masters program where you complete 45 more units in grad level courses
+lululemon shorts
+lolllll
+global offices
+lol yeah
+yeah thats weird to think about
+yee
+Wooo I'm coterming!
+lets do it there
+<#C0C0VJK0V>
+some kind of funnel is def necessary tho
+yeah
+i dont have time for those meetings
+lol
+hm yeahi dont want to send too many of those emails tho
+nais
+this might be my content generation play
+im thinking of tweeting them
+haha yeah
+and if it matches funding thresholds, itll send it over to me
+and then pull companys profile from cbs api
+its just a simple whitelist scraper rnlooking for things like raise series astartup" investor etc.
+haha i assume same  quality
+info asymmetry = power
+scraping is so importantif we posit that there will be a scramble for attention and use of those resources, then its more important than ever to automate tasks like information aggregation
+im now scraping tc articles and emailing myself potential seed-stage companies for varsity
+hue hue hue
+move to <#C0C0VJK0V>
+yeah
+hm the tweeting within last 7 days is good
+but not getting great following numbers
+yeah I look at most of these
+hey that was pretty good ^
+what does that mean
+"i like at so many things?"
+like?
+what criteria?
+yeah, content generation is really hard
+gotcha
+oh ok
+how do you monitor that?
+wait, your content quality?
+and cheap
+whoa that place is beautiful
+lolz
+doing what?
+back to twitter bot?
+lolz
+oh right
+mr. cai??
+do you know whats causing the error?
+jeheheheheheheheh
+hahahahahahahaha
+eh?
+need to watch myself
+wow i said mang"
+jehehe
+nice
+it would be so real
+you should make it terminate upon punctuation
+hahaha
+yeah draper u is pretty expensive
+tim draper?
+nope
+yeah
+def within reach
+haha
+whenever theres known scarcity, theres huge attention devoted to optimizing and meeting demand
+esp if you start thinking of human working memory as a tool that can be optimized like chips (a la Moores Law)
+the implications here are pretty interesting
+haha
+and retweeted it
+i just read it
+interesting stuff
+unless by best you mean popular
+haha i dont know if it means best
+whoa nice
+whos that?
+they have an algorithm to determine if and when to lift the limit
+Lol I think they lift that eventually
+idk
+lolz
+yeah its impressive
+haha
+very nice
+not bad
+nicee
+<!channel>: should give this article a read if you have time <https://medium.com/backchannel/techs-high-barrier-to-entry-for-the-underprivileged-da254356547d>
+yeah thatd make it potentially more quotable
+hm does it not incorporate the trigram in entirety?
+do you think
+nice
+or is this just trying to trigger first
+hm whats related to wsj?
+its in ingleside i think
+i think its intense summer program actually
+or summer program
+I think so
+met the kids
+its a really great program
+i think its almost a year long program
+anyways, thats longer-term, like maybe a year
+one app was like yik yak for city projects (e.g. if you see a problem, you report it, and other ppl can upvote it)
+that are pretty interesting actually
+they teach kids ios, and these kids build out apps
+<http://exploringtech.org/>
+theres some great programs taht are doing it successfully tho
+yep
+yeah i bet
+haha i can tell
+haha
+and longer-term implement a teaching coding program thatll have code-literate hsers and college students teach underserved students how to code websites, and have them build out websites for local businesses for cash
+gonna reach out to a few underserved youth entrepreneurship programs for partnerships
+to do the grass-roots level fundraising
+talking to danny from flex to see if he can bring in some hs talent
+and <http://drapervarsity.com|drapervarsity.com>
+lol
+trying to revive hdmf actually too
+just work
+haha that was a real question?
 yeah
 tru
 thats annoying
@@ -1725,6 +1986,30 @@ I cant do it without inviting them to everything else
 First essay on the Bank Tellers:
 <@U087X4UQZ|kimjongwill> has renamed the channel from "politicsofmeaning" to "politics-of-meaning"
 <@U087X4UQZ|kimjongwill> has joined the channel
+because theyre accretive?
+why recurring revenue streams?
+co-writing a piece sounds fun too
+haha thatd be cool
+yeah haha
+and if you have two step authentication you cant automate
+selenium is slow tho
+but id assume so
+i just glanced at his app for dv
+its crazy
+python libraries
+yeah true
+he wrote an api for robin hood
+i think sophomore
+do you know rohan pai?
+consolidated*
+its weird to me how things are so solidified for vc stuff at cal
+ah ok
+yeah ok
+maybe ill reach out to eva
+and well-networked
+cs-y types
+trying to get more berkeley ppl applying for draper varsity
+<@U0882HKA7>: how easy is it to send blasts to berkeley mailing lists
 <http://www.jonhendren.com/>
 And then it all got fucked
 I had pip working but had to modify bash rc file for scrapy library config, and then I tried to install another thing, but had to reconfigure bash rc file and then reinstall pip
@@ -2107,6 +2392,73 @@ at recommendation of a guy who dropped out of stanford to be product manager at 
 <http://files.meetup.com/219991/The_Art_Of_Self_Discovery.pdf>
 <@U087X4UQZ|kimjongwill> set the channel purpose: Stuff to read, and explain why you posted it
 <@U087X4UQZ|kimjongwill> has joined the channel
+loll
+That's awesome
+Wait which library u use?!!!
+Lmao
+How are you thinking of implementing
+That'd be really cool
+Nice
+Lolllll
+well actually doesnt sound taht weird
+and then later if they want to meet, its like, but dont wanna meet"
+i feel like itd look weird if i just said, congrats
+i gotta follow up with meeting
+but either way
+the whitelist doesnt help
+etc.
+mostly male
+it went from like 70% tech interest to almost 90
+like looking at the analytics.twitter stuff
+lol its sad but these twitter bots are definitely making me more and more in a tech bubble
+but I just want to know if theres a clearly better strategy
+haha yeah it doesnt matter financially
+i only have a couple hundred data points
+at least
+thousands of data points
+you have enough info i think
+well actually
+haha yeah
+but i wonder if it works
+yeah it doesnt hurt
+loll
+and whether this favoriting stuff does anything
+and who does follow back
+if theres anything similar
+but I want to know like who doesnt follow
+yeah
+i need to set aside some time to look at who follows back
+tweepy
+have you ever thought of monitoring the results
+hope this works lol
+i implemented the favorite thing
+yeah
+whats the cost for 200
+no follows?
+off of just likes?
+wow
+hahaha
+i cant believe you use it for all that stuff
+oh wow
+for twitter stuff?
+are you using selenium now?
+yep
+haha
+thats how youve followed so many people haha
+that makes sense
+ohhhh
+isnt that kind of messy?
+yeah
+right
+field
+tweepy has a in_response_to
+yeah yeah
+haha
+oh really?
+:3
+what factors do you look at for which tweet to favorite?
+that seems like a useful tactic
+Im considering using your favoriting idea
 at least Im hoping so
 basically jsut does cronjobs but makes it easier to do, Im assuming it should be easier to get the error logs or any printed statements
 its just a nice package thatll do scripts scheduling and stuff
