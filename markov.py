@@ -1,4 +1,7 @@
 import random
+import nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 
 class Markov(object):
 	
@@ -49,13 +52,15 @@ class Markov(object):
 		return ' '.join(gen_words)
 
 	def generate_markov_text_with_words(self, word1, word2):
-		size = random.randint(10, 20)
+		size = random.randint(30, 35)
 		w1, w2 = word1, word2
 		gen_words = []
 		for i in xrange(size):
 			gen_words.append(w1)
 			w1, w2 = w2, random.choice(self.cache[(w1, w2)])
-			if i > 13 and "." in w2:
-				break
+			if i > 13:
+				pos = nltk.pos_tag([w2])
+				if  ("." in w2 or pos[0][1] == 'NN'):
+					break
 		gen_words.append(w2)
 		return ' '.join(gen_words)
