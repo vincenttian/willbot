@@ -56,7 +56,7 @@ for triple in triples:
 all_trigrams = dict(all_trigrams)
 trigram_popuplarity = sorted(all_trigrams.items(), key=operator.itemgetter(1))
 for t in trigram_popuplarity:
-    if t[1] < 5:
+    if t[1] < 3:
         del all_trigrams[t[0]]
 
 pprint.pprint(all_trigrams)
@@ -81,10 +81,3 @@ def respond(message):
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
